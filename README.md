@@ -84,9 +84,9 @@ Themes: UNIX signals/ processeur ID et Opérateurs bits
     - Signal use
 - BINARY OPERATORS
     
-    ![Untitled](operateursbinaires1.png)
+    ![Untitled](Pictures/operateursbinaires1.png)
     
-    ![Untitled](operateursbinaires2.png)
+    ![Untitled](Pictures/operateursbinaires2.png)
     
 - UTF-8
     
