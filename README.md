@@ -1,6 +1,6 @@
 # 5. Minitalk
 
-Mark: 125/100
+Mark: 125/100  
 Themes: UNIX signals/ processeur ID et Opérateurs bits  
 The purpose of this project is to code a small data exchange program using *UNIX signals*.
 
