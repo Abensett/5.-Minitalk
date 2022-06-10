@@ -36,11 +36,7 @@ The purpose of this project is to code a small data exchange program using *UNIX
 #include <signal.h>
 ```
 
-## FUNCTIONS ALLOWED AND UNIX SIGNALS
-
-- ALLOWED FUNCTIONS
-    
-    [FUNCTIONS ALLOWED](https://www.notion.so/a41d5179b185456d9aa94c4121ec089c)
+## UNIX SIGNALS
     
 - SIGACTION FONCTION AND STRUCTURE
     
