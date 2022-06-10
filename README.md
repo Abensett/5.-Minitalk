@@ -1,6 +1,5 @@
 # 5. Minitalk
 
-Mark: 125/100  
 Themes: UNIX signals/ processeur ID et Opérateurs bits  
 The purpose of this project is to code a small data exchange program using *UNIX signals*.
 
@@ -162,3 +161,7 @@ puis si i!=8 on decale chartoprint a gauche
 	si i==8 alors i=0 si chartoprint = 0 alors c_pid =0 sinon on print et char_toprint=0  
 ```
 </details>
+	
+***
+
+## 42 Project 125/100
